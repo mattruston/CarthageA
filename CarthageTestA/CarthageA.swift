@@ -14,4 +14,8 @@ public class CarthageA {
     public func work() {
         print("Carthage A Ran!")
     }
+    
+    public func finish() {
+        print("Done!")
+    }
 }
